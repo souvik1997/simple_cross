@@ -1,0 +1,14 @@
+E Side must be either 'B' or 'S'
+E Expected side in input
+E Quantity is malformed
+E Expected positive quantity in input
+E Price is malformed
+E Price is malformed
+E Price is malformed
+E Price is malformed
+E Price is malformed
+E Price is malformed
+E Price is malformed
+E Price is malformed
+E Price is malformed
+P 10004 IBM S 5 100.00000

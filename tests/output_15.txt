@@ -1,0 +1,18 @@
+F 10004 IBM 5 100.00000
+F 10000 IBM 5 100.00000
+F 10005 IBM 5 100.00000
+F 10000 IBM 5 100.00000
+F 10006 IBM 5 100.00000
+F 10003 IBM 5 100.00000
+P 10007 IBM S 5 100.00000
+P 10001 IBM B 10 99.00000
+P 10002 IBM B 5 98.00000
+E Already filled order 10000
+E Expected symbol in input
+E Expected side in input
+E Expected quantity in input
+E Expected price in input
+E Price is malformed
+E 10000 Duplicate order id
+E Expected positive OID
+E Expected positive OID

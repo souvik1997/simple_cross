@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "84E24B3C-140B-4411-88E7-BCFFEDD6D05D",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:simple_cross.xcodeproj",
+        "identifier" : "9D160E722A94FA6F00DD7A8A",
+        "name" : "simple_cross_tests"
+      }
+    }
+  ],
+  "version" : 1
+}

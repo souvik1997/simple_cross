@@ -1,0 +1,4 @@
+E Expected positive OID
+E 1 Duplicate order id
+P 1 IBM B 10 100.00000
+P 2 IBMS B 10 100.00000

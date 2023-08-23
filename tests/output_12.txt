@@ -1,0 +1,9 @@
+E Symbol size exceeds max symbol size
+E Symbol size exceeds max symbol size
+P 10000 IBM B 10 100.00000
+P 10001 IBMM B 10 100.00000
+P 10002 IBMMM B 10 100.00000
+P 10003 IBMMMM B 10 100.00000
+P 10004 IBMMMMM B 10 100.00000
+P 10005 IBMMMMMM B 10 100.00000
+E Expected end of input
